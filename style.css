@@ -1,0 +1,102 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.text{
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    display: flex;
+    background-color: #C6C6C6;
+}
+
+.button {
+    background-color: #F6F6F6;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.button2 {
+    background-color: #F6F6F6;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.button3 {
+    background-color: #F6F6F6;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 70px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+}
+
+article {
+    background-color: white;
+    padding: 85px;
+    width: 400px;
+    margin: 500px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: white;
+    padding: ;
+    display: flex;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
